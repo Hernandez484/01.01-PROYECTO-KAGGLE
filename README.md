@@ -1,2 +1,10 @@
-# 01.01-PROYECTO-KAGGLE
-Modelo de clasificación para predecir el desempeño de estudiantes en las Pruebas Saber Pro en Colombia. Incluye análisis exploratorio de datos, preprocesamiento y modelos de aprendizaje automático. j
+# 01.01-PROYECTO-KAGGLE - Pruebas Saber Pro
+¡Bienvenido al repositorio del curso de Introducción a la AI de la Universidad de Antioquia! 🎓 Aquí encontrarás todo lo relacionado con mí proyecto sobre las Pruebas Saber Pro en Colombia.
+
+Tabla de Contenido
+
+👥 Participante:
+
+Nombre: María Andrea Hernández Arias
+Cédula: 1033654484
+Programa: Ingeniería Industrial
