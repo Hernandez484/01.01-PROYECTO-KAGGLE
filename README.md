@@ -6,5 +6,7 @@ Tabla de Contenido
 👥 Participante:
 
 Nombre: María Andrea Hernández Arias
+
 Cédula: 1033654484
+
 Programa: Ingeniería Industrial
