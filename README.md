@@ -10,3 +10,7 @@ Nombre: María Andrea Hernández Arias
 Cédula: 1033654484
 
 Programa: Ingeniería Industrial
+
+Link Video YouTube:
+
+Entrega 2: https://youtu.be/B5Tkw1nadfA
