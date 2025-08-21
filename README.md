@@ -5,12 +5,24 @@ Tabla de Contenido
 
 👥 Participante:
 
+Participante 1:
+
 Nombre: María Andrea Hernández Arias
 
 Cédula: 1033654484
 
 Programa: Ingeniería Industrial
 
-Link Video YouTube:
+Participante 2:
+
+Nombre: María Andrea Hernández Arias
+
+Cédula: 1033654484
+
+Programa: Ingeniería Industrial
+
+Link´s Videos YouTube:
 
 Entrega 2: https://youtu.be/B5Tkw1nadfA
+
+Entrega 3:
