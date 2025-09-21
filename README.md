@@ -15,14 +15,22 @@ Programa: Ingeniería Industrial
 
 Participante 2:
 
-Nombre: María Andrea Hernández Arias
+Nombre: Soledy Yuliana García Tobon 
 
-Cédula: 1033654484
+Cédula: 1039103381
 
 Programa: Ingeniería Industrial
 
+Participante 3:
+
+Nombre: Carolina Galvis Lora
+
+Cédula: 1028030767
+
+Programa: Ingeniería Ambiental
+
 Link´s Videos YouTube:
 
-Entrega 2: https://youtu.be/B5Tkw1nadfA
+Entrega 2: 
 
 Entrega 3:
